@@ -1,0 +1,9 @@
+command: ["streamlit", "run", "app.py"]
+
+env:
+  - name: PGHOST
+    value: "ep-twilight-queen-d8yphdwj.database.us-east-2.cloud.databricks.com"
+  - name: PGDATABASE
+    value: "databricks_postgres"
+  - name: PGUSER
+    value: "diegomanssur@gmail.com"
