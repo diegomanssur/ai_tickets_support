@@ -1,0 +1,5 @@
+streamlit
+psycopg2-binary
+pandas
+databricks-sdk>=0.20.0
+sqlalchemy
